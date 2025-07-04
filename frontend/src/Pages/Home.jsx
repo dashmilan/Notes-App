@@ -16,7 +16,7 @@ function Home() {
         <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100 px-4">
             <div className="bg-white p-8 rounded-2xl shadow-lg text-center max-w-xl w-full">
                 <h1 className="text-3xl font-bold text-gray-800 mb-4">
-                    Welcome to <span className="text-red-600">CNNNNN</span> <span className="text-blue-600">Notes</span>.com
+                    Welcome to <span className="text-red-600">C..........NNNNN</span> <span className="text-blue-600">Notes</span>.com
                 </h1>
                 <h2 className="text-lg text-gray-600">
                     Save your <span className="font-semibold text-purple-600">important notes</span> with us and access them anytime, anywhere.
