@@ -1,3 +1,3 @@
 
 
-export const BASE_URL = "https://notes-app-api-one.vercel.app/";
+export const BASE_URL = "https://notes-app-api-eight.vercel.app";
