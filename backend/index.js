@@ -25,7 +25,7 @@ app.use(express.json())
 
 
 app.use(cors({
-    origin: 'https://notes-app-frontend-teal.vercel.app', // or frontend URL
+    origin: 'https://notes-app-frontend-pi-azure.vercel.app', // or frontend URL
     credentials: true,
     methods: ['GET', 'POST', 'PUT', 'DELETE']
 }));
